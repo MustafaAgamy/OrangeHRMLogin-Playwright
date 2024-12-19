@@ -14,7 +14,6 @@ This repository automates the login functionality of the OrangeHRM demo website 
 ### Prerequisites
 1. **Node.js** (version 16 or later).
 2. **Playwright** installed globally or locally.
-3. A working API key or valid credentials for the OrangeHRM demo website.
 
 ---
 
@@ -39,7 +38,6 @@ This repository automates the login functionality of the OrangeHRM demo website 
 - **src/**: Contains the source code.
   - **api/**: API utilities and helper functions.
   - **tests/**: Test cases for login and validation.
-  - **config/**: Configuration files and constants.
 - **playwright.config.ts**: Playwright configuration.
 
 ---
